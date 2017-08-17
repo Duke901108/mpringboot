@@ -1,0 +1,10 @@
+book:
+  author: 杜克
+  name: springboot
+
+author:
+  age: 32
+  gender: male
+
+hello:
+  msg: 我喜欢你
